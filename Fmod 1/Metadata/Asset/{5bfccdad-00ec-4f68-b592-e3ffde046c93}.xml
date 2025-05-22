@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{5bfccdad-00ec-4f68-b592-e3ffde046c93}">
+		<property name="assetPath">
+			<value>Footsteps/Wood/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dfb53239-64f4-4c6d-aeb5-8f7a25941b22}</destination>
+		</relationship>
+	</object>
+</objects>
